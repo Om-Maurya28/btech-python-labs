@@ -12,6 +12,7 @@ A collection of Python lab programs and practical assignments completed during m
 * String Operations
 * Dictionary Operations
 * Set Operations
+* List Comprehension
 * NumPy
 * Pandas
 * File Handling
@@ -54,6 +55,13 @@ A collection of Python lab programs and practical assignments completed during m
 * Add and Remove Elements
 * Perform Basic Set Operations
 * Display Set Contents
+
+### Lab 6 - List Comprehension
+
+* Basic List Comprehension
+* Creating Lists Using Expressions
+* Filtering Elements Using Conditions
+* Understanding Pythonic List Processing
 
 ## Technologies Used
 
