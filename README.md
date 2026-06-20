@@ -13,9 +13,9 @@ A collection of Python lab programs and practical assignments completed during m
 * Dictionary Operations
 * Set Operations
 * List Comprehension
+* File Handling
 * NumPy
 * Pandas
-* File Handling
 * Problem Solving
 
 ## Lab Programs
@@ -34,7 +34,7 @@ A collection of Python lab programs and practical assignments completed during m
 * Handle Numeric Values
 * Handle String Values
 * Handle Mixed Data Types
-* Case-Insensitive Duplicate Detection (e.g., Vapi and vapi)
+* Case-Insensitive Duplicate Detection
 * User Input-Based Duplicate Removal
 
 ### Lab 3 - String Operations
@@ -63,6 +63,14 @@ A collection of Python lab programs and practical assignments completed during m
 * Filtering Elements Using Conditions
 * Understanding Pythonic List Processing
 
+### Lab 7 - File Handling
+
+* Read Text Files
+* Count Words in a File
+* User Input for File Name
+* File Not Found Exception Handling
+* Basic File Processing Operations
+
 ## Technologies Used
 
 * Python 3
@@ -72,3 +80,4 @@ A collection of Python lab programs and practical assignments completed during m
 ## Author
 
 **Om Maurya**
+
