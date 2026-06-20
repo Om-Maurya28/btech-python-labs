@@ -1,0 +1,3 @@
+
+
+This program demonstrates basic file handling in Python by reading the contents of a text file and counting the number of words present in it. It uses exception handling to manage situations where the specified file does not exist, ensuring the program runs safely without crashing. This helps in understanding file operations and error handling in Python.
