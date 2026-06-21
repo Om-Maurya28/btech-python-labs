@@ -14,6 +14,7 @@ A collection of Python lab programs and practical assignments completed during m
 * Set Operations
 * List Comprehension
 * File Handling
+* Exception Handling
 * NumPy
 * Pandas
 * Problem Solving
@@ -71,6 +72,15 @@ A collection of Python lab programs and practical assignments completed during m
 * File Not Found Exception Handling
 * Basic File Processing Operations
 
+### Lab 8 - Basic Exception Handling
+
+* User Input-Based Number Division
+* Handle ZeroDivisionError
+* Handle ValueError
+* Handle Multiple Exceptions
+* Store Valid Results in a List
+* Improve Program Robustness Using Exception Handling
+
 ## Technologies Used
 
 * Python 3
@@ -80,4 +90,3 @@ A collection of Python lab programs and practical assignments completed during m
 ## Author
 
 **Om Maurya**
-
