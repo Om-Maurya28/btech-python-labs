@@ -81,6 +81,15 @@ A collection of Python lab programs and practical assignments completed during m
 * Store Valid Results in a List
 * Improve Program Robustness Using Exception Handling
 
+### Lab 9 - Matrix Multiplication Using NumPy
+
+* Create 2-D Matrices Using NumPy
+* Perform Matrix Multiplication
+* Understand Row-Column Multiplication Rule
+* Extract Specific Matrix Tiles
+* Perform Tile-Based Matrix Multiplication
+* Display Matrix Operation Results
+
 ## Technologies Used
 
 * Python 3
