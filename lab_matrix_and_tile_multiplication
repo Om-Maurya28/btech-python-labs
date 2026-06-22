@@ -1,0 +1,40 @@
+import numpy as np
+
+# Create two 2-D matrices
+
+A = np.array([[1, 2, 3],
+[4, 5, 6]])
+
+B = np.array([[7, 8],
+[9, 10],
+[11, 12]])
+
+# Matrix Multiplication
+
+result = np.dot(A, B)
+
+print("Matrix A:")
+print(A)
+
+print("\nMatrix B:")
+print(B)
+
+print("\nMatrix Multiplication Result:")
+print(result)
+
+# Tile Multiplication
+
+tile_A = A[:, 0:2]      # First two columns of A
+tile_B = B[0:2, :]      # First two rows of B
+
+tile_result = np.dot(tile_A, tile_B)
+
+print("\nTile A:")
+print(tile_A)
+
+print("\nTile B:")
+print(tile_B)
+
+print("\nTile Multiplication Result:")
+print(tile_result)
+
