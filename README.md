@@ -100,6 +100,16 @@ A collection of Python lab programs and practical assignments completed during m
 * Calculate Percentage
 * Implement Class Methods
 
+### Lab 11 - Inheritance and Method Overriding
+
+* Create a Parent Class (Student)
+* Create a Child Class (CSE_Student)
+* Implement Inheritance
+* Override Parent Class Methods
+* Calculate Student Grades
+* Demonstrate Polymorphism Through Method Overriding
+
+
 
 ## Technologies Used
 
