@@ -1,0 +1,40 @@
+class Student:
+    def __init__(self, name, age, marks):
+        self.name = name
+        self.age = age
+        self.marks = marks
+
+    def evaluate(self):
+        total = sum(self.marks)
+        percentage = total / len(self.marks)
+        print("Percentage:", percentage)
+
+
+class CSE_Student(Student):
+    def evaluate(self):
+        total = sum(self.marks)
+        percentage = total / len(self.marks)
+
+        if percentage >= 90:
+            grade = "A+"
+        elif percentage >= 80:
+            grade = "A"
+        elif percentage >= 70:
+            grade = "B"
+        elif percentage >= 60:
+            grade = "C"
+        else:
+            grade = "D"
+
+        print("Grade:", grade)
+
+
+name = input("Enter Name: ")
+age = int(input("Enter Age: "))
+
+marks = []
+for i in range(5):
+    marks.append(float(input("Enter Marks: ")))
+
+student = CSE_Student(name, age, marks)
+student.evaluate()
