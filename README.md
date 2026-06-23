@@ -90,6 +90,17 @@ A collection of Python lab programs and practical assignments completed during m
 * Perform Tile-Based Matrix Multiplication
 * Display Matrix Operation Results
 
+### Lab 10 - Student Class Using OOP
+
+* Create a User-Defined Class
+* Define Class Attributes
+* Create Objects (Instances)
+* Store Student Information
+* Calculate Total Marks
+* Calculate Percentage
+* Implement Class Methods
+
+
 ## Technologies Used
 
 * Python 3
